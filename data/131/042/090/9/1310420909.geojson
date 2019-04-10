@@ -1,0 +1,66 @@
+{
+  "id": 1310420909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-130.10357,-25.065,-130.10357,-25.065",
+    "geom:latitude":-25.065,
+    "geom:longitude":-130.10357,
+    "gn:asciiname":"Kundur marqa",
+    "gn:country_code":"PN",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8063825,
+    "gn:latitude":-25.065,
+    "gn:longitude":-130.10357,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Kundur marqa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Pitcairn",
+    "iso:country":"PN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632587,
+        102191583,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063825
+    },
+    "wof:country":"PN",
+    "wof:geomhash":"948dd0cbd305ed3f6bfb6b07183255e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632587,
+            "empire_id":136253055,
+            "locality_id":1310420909,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310420909,
+    "wof:lastmodified":1537037344,
+    "wof:name":"Kundur marqa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -130.10357,
+    -25.065,
+    -130.10357,
+    -25.065
+],
+  "geometry": {"coordinates":[-130.10356999999999,-25.065],"type":"Point"}
+}

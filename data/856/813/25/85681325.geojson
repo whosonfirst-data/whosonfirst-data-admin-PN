@@ -1,0 +1,465 @@
+{
+  "id": 85681325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003789,
+    "geom:area_square_m":42665946.274431,
+    "geom:bbox":"-130.753081835,-25.0770809873,-124.778065559,-23.9244117163",
+    "geom:latitude":-24.41277,
+    "geom:longitude":-128.479267,
+    "gn:id":"",
+    "iso:country":"PN",
+    "lbl:latitude":-24.364576,
+    "lbl:longitude":-128.317536,
+    "mps:latitude":-24.364576,
+    "mps:longitude":-128.317536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:ace_x_preferred":[
+        "Pulo-pulo Pitcairn"
+    ],
+    "name:afr_x_preferred":[
+        "Pitcairneilande"
+    ],
+    "name:als_x_preferred":[
+        "Pitcairninseln"
+    ],
+    "name:ang_x_preferred":[
+        "Pitcearn\u012bega"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0628\u064a\u062a\u0643\u064a\u0631\u0646"
+    ],
+    "name:arg_x_preferred":[
+        "Islas Pitcairn"
+    ],
+    "name:aze_x_preferred":[
+        "Pitkern adalar\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u041f\u0456\u0442\u043a\u044d\u0440\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u041f\u0456\u0442\u043a\u0435\u0439\u0440\u043d\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09aa\u09bf\u099f\u0995\u09be\u0987\u09b0\u09cd\u09a8 \u09a6\u09cd\u09ac\u09c0\u09aa\u09ae\u09be\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Inizi Pitcairn"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0442\u043a\u0435\u0440\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Illes Pitcairn"
+    ],
+    "name:ces_x_preferred":[
+        "Pitcairnovy ostrovy"
+    ],
+    "name:cor_x_preferred":[
+        "Ynysow Pitcairn"
+    ],
+    "name:cym_x_preferred":[
+        "Ynysoedd Pitcairn"
+    ],
+    "name:cze_x_preferred":[
+        "Pitcairnovy Ostrovy"
+    ],
+    "name:cze_x_variant":[
+        "Pitcairn"
+    ],
+    "name:dan_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:deu_x_preferred":[
+        "Pitcairninseln"
+    ],
+    "name:deu_x_variant":[
+        "Pitcairn"
+    ],
+    "name:div_x_preferred":[
+        "\u0795\u07a8\u0793\u07a6\u0786\u07a8\u0783\u07a8\u0782\u07b0 \u0796\u07a6\u0792\u07a9\u0783\u07a7"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03b9 \u03a0\u03af\u03c4\u03ba\u03b1\u03b9\u03c1\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Pitcairn Islands"
+    ],
+    "name:eng_x_unknown":[
+        "PN"
+    ],
+    "name:eng_x_variant":[
+        "Pitcairn",
+        "Pitcairn Island",
+        "Pitcairn Islander",
+        "Pitcairn, Henderson, Ducie and Oeno Islands"
+    ],
+    "name:epo_x_preferred":[
+        "Pitkarna insularo"
+    ],
+    "name:est_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:eus_x_preferred":[
+        "Pitcairn uharteak"
+    ],
+    "name:ext_x_preferred":[
+        "Islas Pitcairn"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:fra_x_colloquial":[
+        "Iles Pitcairn"
+    ],
+    "name:fra_x_preferred":[
+        "\u00celes Pitcairn"
+    ],
+    "name:fra_x_variant":[
+        "Pitcairn"
+    ],
+    "name:frp_x_preferred":[
+        "Iles Pitcairn"
+    ],
+    "name:fry_x_preferred":[
+        "Pitcairneilannen"
+    ],
+    "name:gag_x_preferred":[
+        "Pitcairn Adalar\u0131"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Pitcairn"
+    ],
+    "name:glv_x_preferred":[
+        "Ellanyn Pitcairn"
+    ],
+    "name:hbs_x_preferred":[
+        "Pitkern"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d8\u05e7\u05e8\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Pitcairnovo Oto\u010dje"
+    ],
+    "name:hun_x_preferred":[
+        "Pitcairn-Szigetek",
+        "Pitcairn-szigetek"
+    ],
+    "name:hun_x_variant":[
+        "Pitcairn-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u0553\u056b\u0569\u0584\u0565\u0580\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Pitkern"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Pitcairn"
+    ],
+    "name:isl_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Pitcairn"
+    ],
+    "name:ita_x_variant":[
+        "Pitcairn"
+    ],
+    "name:jav_x_preferred":[
+        "Kapuloan Pitcairn"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10e2\u10d9\u10d4\u10e0\u10dc\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0438\u0442\u043a\u044d\u0440\u043d \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kin_x_preferred":[
+        "Piticayirine"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0438\u0442\u043a\u044d\u0440\u043d \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ud54f\ucf00\uc5b8 \uc81c\ub3c4"
+    ],
+    "name:kor_x_variant":[
+        "\ud54f\ucf00\uc5b8 \uc12c",
+        "\ud54f\ucf00\uc5b8\uc12c"
+    ],
+    "name:lat_x_preferred":[
+        "Insulae Pitcairn"
+    ],
+    "name:lav_x_preferred":[
+        "Pitk\u0113rna"
+    ],
+    "name:lij_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:lim_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:lit_x_preferred":[
+        "Pitkerno salos"
+    ],
+    "name:ltz_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u093f\u091f\u0915\u0947\u0930\u094d\u0928 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0442\u043a\u0435\u0440\u043d\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041f\u0438\u0442\u043a\u044d\u0440\u043d \u043e\u0448\u043c\u0430\u043e\u0442\u044b\u0432\u043b\u04d3"
+    ],
+    "name:nld_x_preferred":[
+        "Pitcairneilanden"
+    ],
+    "name:nld_x_variant":[
+        "Pitcairn"
+    ],
+    "name:nno_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:nor_x_colloquial":[
+        "Pitcairnoyene"
+    ],
+    "name:nor_x_preferred":[
+        "Pitcairn\u00f8yene"
+    ],
+    "name:oci_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:pam_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a3f\u0a1f\u0a15\u0a47\u0a30\u0a28 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pih_x_preferred":[
+        "Pitkern Ailen"
+    ],
+    "name:pol_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Pitcairn"
+    ],
+    "name:por_x_variant":[
+        "Pitcairn"
+    ],
+    "name:ron_x_preferred":[
+        "Insulele Pitcairn"
+    ],
+    "name:rum_x_preferred":[
+        "Insulele Pitcairn"
+    ],
+    "name:rum_x_variant":[
+        "Pitcairn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041f\u0438\u0442\u043a\u044d\u0440\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u041f\u0438\u0442\u043a\u044d\u0440\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:slk_x_preferred":[
+        "Pitcairnove ostrovy"
+    ],
+    "name:slv_x_preferred":[
+        "Pitcairnovi otoki"
+    ],
+    "name:sme_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Pitcairn"
+    ],
+    "name:spa_x_variant":[
+        "Pitcairn"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u041f\u0438\u0442\u043a\u0435\u0440\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Kapuloan Pitcairn"
+    ],
+    "name:swa_x_preferred":[
+        "Pitcairn"
+    ],
+    "name:swe_x_colloquial":[
+        "Pitcairnoarna"
+    ],
+    "name:swe_x_preferred":[
+        "Pitcairn\u00f6arna"
+    ],
+    "name:swe_x_variant":[
+        "Pitcairn"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0b9f\u0bcd\u0b95\u0ba9\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0438\u0442\u043a\u044d\u0440\u043d \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3f\u0c1f\u0c4d\u200c\u0c15\u0c46\u0c2f\u0c3f\u0c30\u0c4d\u0c28\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tgl_x_preferred":[
+        "Kapuluang Pitcairn"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e1e\u0e34\u0e15\u0e41\u0e04\u0e23\u0e4c\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Pitcairn Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0442\u043a\u0435\u0440\u043d"
+    ],
+    "name:und_x_colloquial":[
+        "Pitcairnoeya",
+        "Pitcairnoya"
+    ],
+    "name:und_x_preferred":[
+        "Pitcairn\u00f8ya"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u0627\u0626\u0631 \u067e\u0679\u06a9\u06cc\u0631\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Pitcairn"
+    ],
+    "name:war_x_preferred":[
+        "Kapuropod-an Pitcairn"
+    ],
+    "name:wol_x_preferred":[
+        "Pitkeern"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05d9\u05d8\u05e7\u05d0\u05e8\u05df"
+    ],
+    "name:yor_x_preferred":[
+        "\u00c0w\u1ecdn Er\u00e9k\u00f9s\u00f9 Pitcairn"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Pitcairn K\u00fbn-t\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u7279\u51ef\u6069\u7fa4\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u76ae\u7279\u5f00\u6069\u7fa4\u5c9b",
+        "\u76ae\u7279\u958b\u6069\u7fa4\u5cf6"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u76ae\u7279\u51f1\u6069\u7fa4\u5cf6"
+    ],
+    "qs:a0":"Pitcairn Islands",
+    "qs:a0_lc":"PN",
+    "qs:a1":"Pitcairn Islands",
+    "qs:a1_lc":"PCN+00?",
+    "qs:adm0":"Pitcairn Islands",
+    "qs:adm0_a3":"PCN",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 aggregation",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2008-01-01",
+    "statoids:area_km":"49",
+    "statoids:area_mi":"19",
+    "statoids:as_of_date":"2008-01-01",
+    "statoids:capital":"Adamstown",
+    "statoids:country":"PN",
+    "statoids:gec":"PC",
+    "statoids:hasc":"PN.PN",
+    "statoids:iso":"PN",
+    "statoids:name":"Pitcairn Islands",
+    "statoids:population":"66",
+    "statoids:timezone":"-8",
+    "statoids:type":"possession of GB",
+    "wd:wordcount":6420,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85632587,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"PC",
+        "gp:id":23424918,
+        "hasc:id":"PN.PN",
+        "iso:id":"PN-PN",
+        "qs:id":422984,
+        "wd:id":"Q35672"
+    },
+    "wof:country":"PN",
+    "wof:geomhash":"cc8e59f6855db9321dc5ae0955b0f67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632587,
+            "empire_id":136253055,
+            "region_id":85681325
+        }
+    ],
+    "wof:id":85681325,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1536616806,
+    "wof:name":"Pitcairn Islands",
+    "wof:parent_id":85632587,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"possession of GB",
+    "wof:population":66,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pn",
+    "wof:superseded_by":[
+        85632587
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -130.75308183485873,
+    -25.07708098729768,
+    -124.77806555917817,
+    -23.9244117163276
+],
+  "geometry": {"coordinates":[[[[-130.08625240812211,-25.0751278630604],[-130.09593665325389,-25.07708098729768],[-130.10533606690592,-25.07675546689126],[-130.11367753788801,-25.07382577873665],[-130.12035071521331,-25.06829192463255],[-130.11046302005229,-25.06438567435936],[-130.10114498605225,-25.06438567435936],[-130.09300696509933,-25.06796640332681],[-130.08625240812211,-25.0751278630604]]],[[[-124.78551184769356,-24.6639950501314],[-124.78058834457642,-24.66464609184362],[-124.77892005091957,-24.66741301889567],[-124.77806555917817,-24.67253997204205],[-124.77879798054232,-24.66871510142073],[-124.78058834457642,-24.66659921698022],[-124.78538977821563,-24.66448333074106],[-124.78616289030509,-24.66456471039305],[-124.79710852813605,-24.66708749758988],[-124.78652910053751,-24.6639950501314],[-124.78551184769356,-24.6639950501314]]],[[[-128.29015051953081,-24.39837004953813],[-128.30011959524307,-24.41366952842594],[-128.32066809765456,-24.40064869598046],[-128.342193163084,-24.37175872168763],[-128.35024980348561,-24.34124114356388],[-128.33018958168384,-24.32431405994589],[-128.3037003251099,-24.33464934678989],[-128.29084225196834,-24.3656552055233],[-128.29015051953081,-24.39837004953813]]],[[[-130.74136308493837,-23.9244117163276],[-130.74209550720184,-23.92782968509187],[-130.7469783186944,-23.932793878035],[-130.75084387914166,-23.93466562262034],[-130.75308183485873,-23.92962005002522],[-130.75084387914166,-23.92717864337965],[-130.74803626226367,-23.92734140358289],[-130.74526933521162,-23.9244117163276],[-130.74136308493837,-23.9244117163276]]]],"type":"MultiPolygon"}
+}

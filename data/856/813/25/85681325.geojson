@@ -65,14 +65,14 @@
     "name:ces_x_preferred":[
         "Pitcairnovy ostrovy"
     ],
+    "name:ces_x_variant":[
+        "Pitcairnovy Ostrovy"
+    ],
     "name:cor_x_preferred":[
         "Ynysow Pitcairn"
     ],
     "name:cym_x_preferred":[
         "Ynysoedd Pitcairn"
-    ],
-    "name:cze_x_preferred":[
-        "Pitcairnovy Ostrovy"
     ],
     "name:cze_x_variant":[
         "Pitcairn"
@@ -271,9 +271,6 @@
     "name:ron_x_preferred":[
         "Insulele Pitcairn"
     ],
-    "name:rum_x_preferred":[
-        "Insulele Pitcairn"
-    ],
     "name:rum_x_variant":[
         "Pitcairn"
     ],
@@ -440,7 +437,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1536616806,
+    "wof:lastmodified":1561827003,
     "wof:name":"Pitcairn Islands",
     "wof:parent_id":85632587,
     "wof:placetype":"region",

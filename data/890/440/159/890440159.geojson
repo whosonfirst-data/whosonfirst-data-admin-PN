@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0622\u062f\u0645\u0632\u062a\u0627\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Adamstown"
+    ],
     "name:aze_x_preferred":[
         "Adamstaun"
     ],
@@ -72,6 +75,9 @@
     "name:fas_x_preferred":[
         "\u0627\u062f\u0645\u0632\u062a\u0648\u0646\u060c \u067e\u06cc\u062a\u06a9\u0631\u0646 \u0627\u06cc\u0633\u0644\u0646\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u062f\u0645\u0632\u062a\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Adamstown"
     ],
@@ -119,6 +125,9 @@
     ],
     "name:lit_x_preferred":[
         "Adamstaunas"
+    ],
+    "name:ltz_x_preferred":[
+        "Adamstown"
     ],
     "name:mar_x_preferred":[
         "\u0972\u0921\u092e\u094d\u0938\u091f\u093e\u0909\u0928"
@@ -189,6 +198,9 @@
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0688\u0645\u0632 \u0679\u0627\u0624\u0646\u060c \u062c\u0632\u0627\u0626\u0631 \u067e\u0679\u06a9\u06cc\u0631\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0688\u0645\u0632 \u0679\u0627\u0624\u0646"
+    ],
     "name:uzb_x_preferred":[
         "Adamstaun"
     ],
@@ -200,6 +212,9 @@
     ],
     "name:war_x_preferred":[
         "Adamstown"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e9e\u7576\u65af\u6566"
     ],
     "name:zho_x_preferred":[
         "\u4e9a\u5f53\u65af\u6566"
@@ -238,7 +253,7 @@
         }
     ],
     "wof:id":890440159,
-    "wof:lastmodified":1561827003,
+    "wof:lastmodified":1563234893,
     "wof:name":"Adamstown",
     "wof:parent_id":85681325,
     "wof:placetype":"locality",

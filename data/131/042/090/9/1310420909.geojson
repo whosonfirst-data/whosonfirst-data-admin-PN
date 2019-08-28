@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Pitcairn",
     "iso:country":"PN",
+    "lbl:bbox":"-130.12357,-25.085,-130.08357,-25.045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632587,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1310420909,
-    "wof:lastmodified":1537037344,
+    "wof:lastmodified":1566600169,
     "wof:name":"Kundur marqa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

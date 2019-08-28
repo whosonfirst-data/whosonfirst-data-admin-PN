@@ -11,10 +11,14 @@
     "geom:longitude":-130.10147,
     "gn:country":"PN",
     "gn:fcode":"PPLC",
-    "gn:pop":46,
+    "gn:population":46,
     "iso:country":"PN",
+    "lbl:bbox":"-130.12147,-25.08597,-130.08147,-25.04597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Adamstown"
     ],
@@ -235,7 +239,7 @@
     "wof:concordances":{
         "gn:id":4030723,
         "gp:id":1064283,
-        "qs:id":1047681,
+        "qs_pg:id":1047681,
         "wd:id":"Q48273",
         "wk:page":"Adamstown"
     },
@@ -253,7 +257,7 @@
         }
     ],
     "wof:id":890440159,
-    "wof:lastmodified":1563234893,
+    "wof:lastmodified":1566600169,
     "wof:name":"Adamstown",
     "wof:parent_id":85681325,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0622\u062f\u0645\u0632\u062a\u0627\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u062f\u0627\u0645\u0633\u062a\u0648\u0646"
+    ],
     "name:ast_x_preferred":[
         "Adamstown"
     ],
@@ -91,6 +94,9 @@
     "name:fry_x_preferred":[
         "Adamstown"
     ],
+    "name:gle_x_preferred":[
+        "Adamstown"
+    ],
     "name:glg_x_preferred":[
         "Adamstown"
     ],
@@ -110,6 +116,9 @@
         "Adamstown"
     ],
     "name:ind_x_preferred":[
+        "Adamstown"
+    ],
+    "name:isl_x_preferred":[
         "Adamstown"
     ],
     "name:ita_x_preferred":[
@@ -160,6 +169,9 @@
     "name:pih_x_preferred":[
         "Adamstown"
     ],
+    "name:pih_x_variant":[
+        "Adamstoen"
+    ],
     "name:pol_x_preferred":[
         "Adamstown"
     ],
@@ -190,8 +202,14 @@
     "name:tam_x_preferred":[
         "\u0b86\u0b9f\u0bae\u0bcd\u0bb8\u0bcd\u0b9f\u0bb5\u0bc1\u0ba9\u0bcd"
     ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0434\u0430\u043c\u0441\u0442\u0430\u0443\u043d"
+    ],
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e14\u0e31\u0e21\u0e2a\u0e4c\u0e17\u0e32\u0e27\u0e19\u0e4c"
+    ],
+    "name:tum_x_preferred":[
+        "Adamstown"
     ],
     "name:tur_x_preferred":[
         "Adamstown"
@@ -216,6 +234,9 @@
     ],
     "name:war_x_preferred":[
         "Adamstown"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u5f53\u65af\u6566"
     ],
     "name:yue_x_preferred":[
         "\u4e9e\u7576\u65af\u6566"
@@ -257,7 +278,7 @@
         }
     ],
     "wof:id":890440159,
-    "wof:lastmodified":1566600169,
+    "wof:lastmodified":1690855776,
     "wof:name":"Adamstown",
     "wof:parent_id":85681325,
     "wof:placetype":"locality",
